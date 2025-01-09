@@ -1,2 +1,6 @@
 **/output
 *.out
+
+.prettierrc
+try.cpp
+testing.cpp
